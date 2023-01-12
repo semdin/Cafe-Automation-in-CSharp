@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafe_Otomasyonu", "Kafe_Otomasyonu\Kafe_Otomasyonu.csproj", "{945CF8E4-F6CF-422C-8F21-D43A7069569C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{945CF8E4-F6CF-422C-8F21-D43A7069569C}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

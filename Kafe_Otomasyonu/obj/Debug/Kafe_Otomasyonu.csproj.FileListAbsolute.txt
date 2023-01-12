@@ -1,0 +1,17 @@
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe.config
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.exe
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\bin\Debug\Kafe_Otomasyonu.pdb
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmKullaniciEkle.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmAna.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmGiris.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmMasa.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmSatislar.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmUrunDuzenle.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmUrunEkle.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmUrunGoster.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.frmUrunGrup.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Semdin_Kafe_Otomasyonu.Properties.Resources.resources
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.exe
+C:\Users\Semdin\Desktop\KAFE_SON_SON_SON\proje\kafe otomasyonu\Kafe_Otomasyonu\obj\Debug\Kafe_Otomasyonu.pdb
