@@ -1,8 +1,8 @@
 # Cafe-Automation-in-CSharp
 
-This is a Cafe automation program which you can use for your restaurant. It has a lot of function that is useful for your business.
-I used C# and Microsoft SQL to build this program.
-You can see ScreenShots so you can understand how program works.
+This is a Cafe automation program which you can use for your restaurant. It has a lot of function that is useful for your business.<br>
+I used C# and Microsoft SQL to build this program.<br>
+You can see ScreenShots so you can understand how program works.<br>
 
 <h3><b>Login Panel</b></h3>
 
